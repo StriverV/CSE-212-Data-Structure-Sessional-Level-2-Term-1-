@@ -1,4 +1,5 @@
- /*#include <bits/stdc++.h>
+ // for sorted array
+/*#include <bits/stdc++.h>
 using namespace std;
 
 int main()
